@@ -7,7 +7,7 @@ Welcome to our GitHub repository! This repository contains the code, preprocessi
 ---
 
 ## 🏆 **Challenge Overview**  
-Water scarcity is one of the most pressing issues of our time, and the ability to predict shortages can help mitigate its devastating effects. The goal of this challenge was to develop a machine learning model that could accurately predict water shortages based on a variety of features provided in the dataset. This event taking place November 29th to December 2nd 2024.
+Water scarcity is one of the most pressing issues of our time, and the ability to predict shortages can help mitigate its devastating effects. The goal of this challenge was to develop a machine learning model that could accurately predict water shortages based on a variety of features provided in the dataset. This event took place November 29th to December 2nd 2024.
 
 ---
 
@@ -24,7 +24,8 @@ Water scarcity is one of the most pressing issues of our time, and the ability t
 We experimented with various machine learning models including:  
 - XGBoost (GPU-accelerated for scalability and speed)  
 - Random Forest  
-- Support Vector Machines (SVM)  
+- Support Vector Machines (SVM)
+- ANNs
 
 **Final Model**: We selected **Random Forest** as our final model due to its balance between accuracy and computational efficiency.  
 
